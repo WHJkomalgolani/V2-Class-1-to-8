@@ -1,0 +1,11 @@
+class name starting with a capital is a naming convention. 
+It is not compulsory
+
+this keyword is basiaclly a placeholder for current object.
+
+ First you assign the property and then add those properties to a function. 
+If you create the function first, then the compiler will not be able to find the properties.
+
+function setup is like setting a stage to perform.
+
+text("X"  +mouseX+ "Y" +mouseY,mouseX,mouseY)
